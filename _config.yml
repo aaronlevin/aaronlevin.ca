@@ -2,7 +2,7 @@ title:            aaron levin
 tagline:          monadic by design
 description:      a place for empathy
 #Comment out url when working locally to resolve base urls correctly
-#url:              http://aaronlevin.ca
+url:              http://aaronlevin.ca
 
 # Owner/author information
 owner:
