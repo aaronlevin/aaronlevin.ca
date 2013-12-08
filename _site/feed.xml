@@ -3,33 +3,33 @@
 <title type="text">aaron levin</title>
 <subtitle type="text">monadic by design</subtitle>
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="/feed.xml" />
-<link rel="alternate" type="text/html" href="" />
-<updated>2013-12-07T11:05:35-05:00</updated>
-<id>/</id>
+<link rel="self" type="application/atom+xml" href="http://aaronlevin.ca/feed.xml" />
+<link rel="alternate" type="text/html" href="http://aaronlevin.ca" />
+<updated>2013-12-08T11:06:51-05:00</updated>
+<id>http://aaronlevin.ca/</id>
 <author>
   <name>aaron levin</name>
-  <uri>/</uri>
+  <uri>http://aaronlevin.ca/</uri>
   <email>aaron@weirdcanada.com</email>
 </author>
 
 
 <entry>
   <title type="html"><![CDATA[hello, world]]></title>
-  <link rel="alternate" type="text/html" href="/hyperbole/hello-world" />
-  <id>/hyperbole/hello-world</id>
+  <link rel="alternate" type="text/html" href="http://aaronlevin.ca/hyperbole/hello-world" />
+  <id>http://aaronlevin.ca/hyperbole/hello-world</id>
   <published>2013-12-06T00:00:00-05:00</published>
   <updated>2013-12-06T00:00:00-05:00</updated>
   <author>
     <name>aaron levin</name>
-    <uri></uri>
+    <uri>http://aaronlevin.ca</uri>
     <email>aaron@weirdcanada.com</email>
   </author>
   <content type="html">&lt;p&gt;I haven’t maintained a website in a while. I am trying to move away from Facebook and twitter does not afford me enough characters to &lt;em&gt;truly&lt;/em&gt; rant about democratically-planned economies and &lt;a href=&quot;https://www.fpcomplete.com/user/dolio/many-roads-to-free-monads&quot;&gt;free monads&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;I hope you enjoy.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/hyperbole/hello-world&quot;&gt;hello, world&lt;/a&gt; was originally published by aaron levin at &lt;a href=&quot;&quot;&gt;aaron levin&lt;/a&gt; on December 06, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://aaronlevin.ca/hyperbole/hello-world&quot;&gt;hello, world&lt;/a&gt; was originally published by aaron levin at &lt;a href=&quot;http://aaronlevin.ca&quot;&gt;aaron levin&lt;/a&gt; on December 06, 2013.&lt;/p&gt;</content>
 </entry>
 
 </feed>
